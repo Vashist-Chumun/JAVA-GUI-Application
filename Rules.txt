@@ -1,0 +1,93 @@
+                                                                                                   
+                                                                                                    ELECTION RULES & REGULATIONS
+                                                                                                   
+
+  INTRODUCTORY PROVISIONS
+  Authority
+
+    1. This regulation is made pursuant to the Election Law.
+	
+    2. Unless specifically provided otherwise in these regulations, the terms used have the same meaning as defined in the Election Law. 
+       "PIN" means a personal identification number; and "system" means an electronically accessible platform upon which electronic voting 
+       will be conducted.
+
+  Rules for Electronic Voting
+  
+    3. The elections officer, with the assistance of elections officials, may make written rules regarding the following:
+    
+	a) How an eligible voter may vote by electronic voting;
+
+	b) The administration of electronic voting, and
+
+	c) The counting and tallying of votes cast by electronic voting Electronic System
+
+    
+    4. The elections officer, with assistance of an identified elections official , as required, is responsible for:
+
+	a) Establishing the technology, including software, for electronic voting; and
+
+	b) Administering, maintaining, monitoring and performing the audits of the system.
+
+
+    5. For certainty, for the purposes of carrying out the duties under section 4, the elections officer or designated elections official 
+       must have direct access to the electronic voting system beyond the access necessary to vote by electronic voting.
+
+
+    6. When an eligible voter wishes to vote using electronic voting, the system must:
+
+	a) Request the PIN issued to the eligible voter and at least one other piece of information unique to the eligible voter so that the 
+	   eligible voter can be reliably identified as an eligible voter and the individual that they claim to be;
+	
+	b) Verify on the voters list whether or not the eligible voter has already voted;
+	
+	c) If an individual is an eligible voter and has not already voted in that election, issue an electronic ballot to the efigible voter 
+	   in a manner that ensures the secrecy of the ballot and protects the secrecy of the eligible voter's vote;
+	
+	d) Provide to the eligible voter, in the form approved by the elections officer, instructions for marking the electronic ballot;
+	
+	e) Permit the eligible voter to mark the electronic ballot and record it in the electronic ballot box; and
+	
+	f) Indicate on the voters list that the eligible voter has voted as soon as the electronic ballot is recorded in the electronic ballot box.
+       Individuals needing assistance to mark their electronic ballot
+
+
+	7.	Where an eligible voter is unable to vote by electronic voting because of a physical disability, the eligible voter may enlist the 
+	    assistance of another individual to enter the eligible voter's PIN, mark the eligible voter's electronic ballot and record it in the electronic 
+	    ballot box.
+	    
+  Replacement PIN
+    8. If an eligible voter did not receive a PIN, has lost his or her PIN or the PIN does not work, the elections officer may issue or instruct an 
+       elections official to issue a new PIN to the eligible voter to allow him or her to vote only if:
+	
+	a) The elections officer is satisfied that the individual is an eligible voter and has not already voted in that elections; and
+	
+	b) If applicable, the elections officer or an elections official has cancelled the original PIN assigned to that voter such that the original PIN cannot 
+	   be used for electronic voting.
+    
+    9. The elections officer must maintain a record of the original and any replacement PIN assigned to each eligible voter until the end of the retention period 
+       described in section 68 of the Law.
+
+  Suspension of Electronic Voting
+   10. Electronic voting may be suspended by the elections officer if the elections officer considers that:
+	
+	a) The health and safety of persons is at risk; or
+	
+	b) The integrity of the voting is at risk.
+   
+   11. Voting may be suspended under section 10:
+	a) To a later time on the same day; or
+	
+	b) To a day and time to be set by the elections officer.
+   
+   12. While voting is suspended under section 10, the elections officer and elections officials must make all reasonable efforts to ensure:
+	a) The electronic ballot box, the electronic ballots and other materials are secured.
+	
+	b) The integrity of the election is not compromised.
+   
+   13. Elections officials must give notice to persons affected by any suspension of voting under this section as directed by the elections 
+       officer or, in the absence of such direction, in any manner the elections officials consider necessary or advisable in the circumstances.
+
+	    
+	    
+                                                                                                                  ~ Thank You ~
+       
